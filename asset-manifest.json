@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OnlineSpreadSheet/static/css/main.4749b873.css",
+    "main.js": "/OnlineSpreadSheet/static/js/main.3f8f5c82.js",
+    "index.html": "/OnlineSpreadSheet/index.html",
+    "main.4749b873.css.map": "/OnlineSpreadSheet/static/css/main.4749b873.css.map",
+    "main.3f8f5c82.js.map": "/OnlineSpreadSheet/static/js/main.3f8f5c82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4749b873.css",
+    "static/js/main.3f8f5c82.js"
+  ]
+}
